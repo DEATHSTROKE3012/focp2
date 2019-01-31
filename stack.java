@@ -12,7 +12,7 @@ e[tos]=a;
 }
 void pop()
 {
-if(!Empty())
+if(!isEmpty())
 {
 tos--;
 }
