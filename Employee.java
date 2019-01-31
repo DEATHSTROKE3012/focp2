@@ -26,8 +26,8 @@ public class Employee {
   System.out.println("Employee code = " + code);
   System.out.println("Employee name = " + name);
   System.out.println("Employee salary = " + salary);
-System.out.println("Employee city = " + city);
-System.out.println("Employee department = " + department);
+  System.out.println("Employee city = " + city);
+  System.out.println("Employee department = " + department);
  }
  
  public static void main(String[] args) {
